@@ -33,7 +33,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 #EXTINF:-1,MBC 1
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 #EXTINF:-1,MBC 1 (Link not stable )
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbc1
+rtmp://web.iptv-planet.com:1936/live2/Hi_mbc2
 
 
 #EXTINF:-1,Mbc 2 - Linke 1
