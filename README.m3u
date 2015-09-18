@@ -2,8 +2,6 @@
 
 #EXTINF:-1, [COLOR yellow]Updated 18/09/15 @ 21:26 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR yellow] --Links will go down. Please note that it will take time to update--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red]The file is updated by Haider M[/COLOR]
@@ -35,7 +33,8 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 #EXTINF:-1,MBC 1
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 #EXTINF:-1,MBC 1 (Link not stable )
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
+rtmp://web.iptv-planet.com:1936/live2/Hi_mbc1
+
 
 #EXTINF:-1,Mbc 2 - Linke 1
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
