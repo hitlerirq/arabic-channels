@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 18/09/15 @ 22:21 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 18/09/15 @ 22:36 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR yellow] --Links will go down. Please note that it will take time to update--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -78,7 +78,24 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-pl
 
 #EXTINF:-1,MBC Bollywood
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&width=600&height=400 
-
+#EXTINF:-1,rotana_aflam
+http://37.59.51.173:8085/ROTANA_AFLAM/index.m3u8?token=sib5543dbe28d940
+#EXTINF:-1,rotana_cinema
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#EXTINF:-1,rotana_cinema m3u8
+http://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream/playlist.m3u8
+#EXTINF:-1,rotana_classic
+http://37.59.51.173:8085/ROTANA_CLASSIC/index.m3u8?token=sib5543dbe28d940
+#EXTINF:-1,rotana_clip
+http://37.59.51.173:8085/ROTANA_CLIP/index.m3u8?token=sib5543dbe28d940
+#EXTINF:-1,rotana_masriya
+http://37.59.51.173:8085/ROTANA_MASRIYA/index.m3u8?token=sib5543dbe28d940
+#EXTINF:-1,rotana_music
+rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
+#EXTINF:-1,rotana_music
+http://37.59.51.173:8085/ROTANA_MUSIC/index.m3u8?token=sib5543dbe28d940
+#EXTINF:-1,rotana_music m3u8
+http://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream/playlist.m3u8
 #EXTINF:-1,art aflam 1
 rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_aflam_1
 #EXTINF:-1, ART Aflam 1
@@ -135,11 +152,6 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/
 #EXTINF:-1,Tunisia Nationale 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&width=600&height=400 
 
-
-#EXTINF:-1, ===========Visit Husham.com=======================
-http://www.youtube.com/user/hmemar22[COLOR red]link_down[/COLOR]
-#EXTINF:-1, ===========Visit Husham.com=======================
-http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1,2M 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
@@ -310,17 +322,6 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
 
-
-
-
-#EXTINF:-1, ===========Visit husham.com=======================
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, ===========Visit Husham.com=======================
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
-http://www.youtube.com/user/hmemar22
 
 
 #EXTINF:-1,Iraqiya
@@ -495,152 +496,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
 
 
-#EXTINF:-1, ===========Arabic Films=======================
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, ===========Arabic Films =======================
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, فيلم Djinn اﻹماراتي الرعب العربي الجن اونلاين 2014 كامل
-http://flv.alarab.net:8080//flv/85194.flv?start=0
-
-
-#EXTINF:-1,فيلم عنتر وبيسه كوميدي اجتماعي مصري اونلاين 2015
-http://flv.alarab.net:8080//flv/85444.flv?start=0
-
-#EXTINF:-1,فيلم المواطن برص كامل ديفيدي مصري اونلاين
-http://flv.alarab.net:8080//flv/85363.flv?start=0
-
-#EXTINF:-1, سوء تفاهم كامل تصوير سينما - كوميدي حركة اونلاين 2015
-http://flv.alarab.net:8080//flv/84844.flv?start=0
-#EXTINF:-1, فيلم خطة بديلة كامل تصوير سينما - دراما تشويق و إثارة اونلاين 2015
-http://flv.alarab.net:8080//flv/84843.flv?start=0
-#EXTINF:-1, فيلم يوم مالوش لازمة كامل ts cam تصوير سينما اون لاين 2015
-http://flv.alarab.net:8080//flv/84681.flv?start=0
-#EXTINF:-1, فيلم هز وسط البلد كامل بجودة ts cam تصوير سينما اون لاين 2015
-http://flv.alarab.net:8080//flv/84679.flv?start=0
-#EXTINF:-1, لفيلم اللبناني غدي 2015
-http://flv.alarab.net:8080//flv/84551.flv?start=0
-
-#EXTINF:-1,فيلم اسوار القمر كامل اون لاين 2015
-http://flv.alarab.net:8080//flv/84548.flv?start=0
-
-#EXTINF:-1, الفيلم المغربي الخونة اون لاين 2015
-http://flv.alarab.net:8080//flv/84539.flv?start=0
-
-#EXTINF:-1, فيلم ريجاتا كامل مشاهدة اون لاين 2015
-http://flv.alarab.net:8080//flv/84488.flv?start=0
-
-#EXTINF:-1, ريلر فيلم اسوار القمر مشاهدة اون لاين 2015
-http://flv.alarab.net:8080//flv/84208.flv?start=0
-
-#EXTINF:-1, فيلم_بتوقيت_القاهرة_مصري_اكشن_2015
-http://flv.alarab.net:8080//flv/84197.flv?start=0
-
-#EXTINF:-1, فيلم_القط_كامل_مشاهدة_اون_2015
-http://flv.alarab.net:8080//flv/84088.flv?start=0
-
-#EXTINF:-1, فيلم_المهرجان_the_festival_2014
-http://flv.alarab.net:8080//flv/83854.flv?start=0
-
-#EXTINF:-1, من الف الى باء - From A to B فيلم عربي مصري اماراتي مشترك دراما كوميدي اجتماعي بجودة سينما 2015
-http://flv.alarab.net:8080//flv/83809.flv?start=0
-
-
-#EXTINF:-1, فيلم_المكيدة_كامل_مصري_اكشن_2015
-http://flv.alarab.net:8080//flv/83710.flv?start=0
-
-
-#EXTINF:-1, فيلم_جرسونيرة_كامل_2013_بجودة_
-http://flv.alarab.net:8080//flv/83685.flv?start=0
-
-#EXTINF:-1, _فيلم_عمر_وسلوى_Omar_2014
-http://flv.alarab.net:8080//flv/83554.flv?start=0
-
-#EXTINF:-1, حماتي_بتحبني_فيلم_مصري_كوميدي_2014
-http://flv.alarab.net:8080//flv/83334.flv?start=0
-
-#EXTINF:-1, _نظرية_عمتي_فيلم_مصري_كوميدي_2014
-http://flv.alarab.net:8080//flv/83198.flv?start=0
-
-#EXTINF:-1, _فيلم_HIV_اتش_اي_في_
-http://flv.alarab.net:8080//flv/83196.flv?start=0
-
-#EXTINF:-1, -_فيلم_القشاش_مصري_اكشن_2014
-http://flv.alarab.net:8080//flv/83155.flv?start=0
-
-#EXTINF:-1, _فيلم_واحد_صعيدي_كوميدي_اجتماعي_2014
-http://flv.alarab.net:8080//flv/83056.flv?start=0
-
-#EXTINF:-1, حلاوة روح
-http://cdn.playwire.com/15448/video-20140808-1202144.mp4
-
-#EXTINF:-1, حلاوة روح
-http://flv.alarab.net:8080//flv/80106.flv?start=0
-
-
-#EXTINF:-1,flv 3oche_elbolbol
-http://flv.alarab.net:8080//flv/81232.flv
-#EXTINF:-1,flv 5otat_jimi
-http://flv.alarab.net:8080//flv/74722.flv
-#EXTINF:-1,flv 7alawat_rou7
-http://flv.alarab.net:8080//flv/80106.flv
-#EXTINF:-1,flv 7amati_bit7ibini
-http://flv.alarab.net:8080//flv/83334.flv
-#EXTINF:-1,flv 7olm_omr
-http://flv.alarab.net:8080//flv/76547.flv
-#EXTINF:-1,flv achita_lifat
-http://flv.alarab.net:8080//flv/75166.flv
-#EXTINF:-1,flv al_9achach
-http://flv.alarab.net:8080//flv/83155.flv
-#EXTINF:-1,flv al7ab_al3alamia_athalitha
-http://flv.alarab.net:8080//flv/80272.flv
-#EXTINF:-1,flv alharibatan
-http://flv.alarab.net:8080//flv/76509.flv
-#EXTINF:-1,flv aljazeera2
-http://flv.alarab.net:8080//flv/81800.flv
-#EXTINF:-1,flv almo3dia
-http://flv.alarab.net:8080//flv/82374.flv
-#EXTINF:-1,flv amwaj_9assira
-http://flv.alarab.net:8080//flv/79349.flv
-#EXTINF:-1,flv atarik_adairi
-http://flv.alarab.net:8080//flv/81569.flv
-#EXTINF:-1,flv bibi
-http://flv.alarab.net:8080//flv/76517.flv
-#EXTINF:-1,flv captin_hima
-http://flv.alarab.net:8080//flv/81153.flv
-#EXTINF:-1,flv elphil_ alazra9
-http://flv.alarab.net:8080//flv/80344.flv
-#EXTINF:-1,flv hojoum_montasaf_alil
-http://flv.alarab.net:8080//flv/81251.flv
-#EXTINF:-1,flv houjoum_montasaf_alil
-http://flv.alarab.net:8080//flv/76585.flv
-#EXTINF:-1,flv jawazat_miry
-http://flv.alarab.net:8080//flv/80472.flv
-#EXTINF:-1,flv kalam_jarayad
-http://flv.alarab.net:8080//flv/74953.flv
-#EXTINF:-1,flv lamoa5da
-http://flv.alarab.net:8080//flv/81304.flv
-#EXTINF:-1,flv made_in_egypt
-http://flv.alarab.net:8080//flv/79970.flv
-#EXTINF:-1,flv marati_wa_zawjati
-http://flv.alarab.net:8080//flv/80578.flv
-#EXTINF:-1,flv morjan_ahmed_morjan
-http://flv.alarab.net:8080//flv/81372.flv
-#EXTINF:-1,flv mot3ib_wa_chadia
-http://flv.alarab.net:8080//flv/74720.flv
-#EXTINF:-1,flv nazariat_3amiti
-http://flv.alarab.net:8080//flv/83198.flv
-#EXTINF:-1,flv salam_abou_o5to
-http://flv.alarab.net:8080//flv/80018.flv
-#EXTINF:-1,flv taxi_albalad_lebanon
-http://flv.alarab.net:8080//flv/76253.flv
-#EXTINF:-1,flv THE_DEALER
-http://flv.alarab.net:8080//flv/80603.flv
-#EXTINF:-1,flv villa69
-http://flv.alarab.net:8080//flv/79937.flv
 
 
 
